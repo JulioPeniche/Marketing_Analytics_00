@@ -15,7 +15,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Dados brutos (não subir para o GitHub)
+# Dados brutos (não estão no GitHub)
 DATA/raw/
 
 # Dados tratados
