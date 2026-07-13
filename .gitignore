@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# VS Code
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dados brutos (não subir para o GitHub)
+DATA/raw/
+
+# Dados tratados
+DATA/cleaned/
