@@ -17,6 +17,7 @@ Thumbs.db
 
 # Dados brutos (não estão no GitHub)
 DATA/raw/
+data/raw/
 
 # Dados tratados
 DATA/cleaned/
