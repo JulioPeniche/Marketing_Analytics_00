@@ -86,3 +86,12 @@ Os principais resultados deste projeto podem ser explorados por meio dos links a
 * **Repositório no GitHub:** https://github.com/JulioPeniche/Marketing_Analytics_00
 
 
+# Autor
+
+**Julio P.**
+
+Projeto desenvolvido como parte da construção de portfólio na área de Dados, com foco em Engenharia de Dados e Analytics.
+
+* LinkedIn: https://www.linkedin.com/in/julio-peniche-cloud/
+
+
