@@ -14,3 +14,18 @@ O desenvolvimento deste projeto teve como principais objetivos:
 * Utilizar o BigQuery como plataforma de armazenamento e consulta dos dados.
 * Criar um dashboard interativo no Looker Studio para visualização dos principais indicadores.
 * Aplicar boas práticas de organização de projetos, documentação e versionamento com Git e GitHub.
+
+
+# Arquitetura da solução
+
+O projeto foi desenvolvido seguindo um fluxo de processamento de dados de ponta a ponta, desde a preparação dos dados até a disponibilização de indicadores para análise.
+
+**Fluxo da solução:**
+
+Dados Olist
+→ Python (ETL e Validação)
+→ BigQuery (Armazenamento e Consultas SQL)
+→ Looker Studio (Dashboard e Visualização)
+
+Esse fluxo representa uma arquitetura simples, porém amplamente utilizada em projetos de Analytics e Business Intelligence, permitindo a integração entre processamento, armazenamento, análise e visualização dos dados.
+
