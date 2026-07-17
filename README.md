@@ -78,5 +78,11 @@ Ao final do projeto, foram entregues os seguintes resultados:
 * Dashboard interativo no Looker Studio para acompanhamento dos principais indicadores de e-commerce.
 * Repositório organizado com documentação, versionamento em Git e estrutura modular, facilitando a manutenção e a reprodução do projeto.
 
+# Acesse o projeto
+
+Os principais resultados deste projeto podem ser explorados por meio dos links abaixo:
+
+* **Dashboard interativo (Looker Studio):** https://datastudio.google.com/s/lpReVwyVaoQ
+* **Repositório no GitHub:** https://github.com/JulioPeniche/Marketing_Analytics_00
 
 
