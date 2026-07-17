@@ -29,3 +29,54 @@ Dados Olist
 
 Esse fluxo representa uma arquitetura simples, porém amplamente utilizada em projetos de Analytics e Business Intelligence, permitindo a integração entre processamento, armazenamento, análise e visualização dos dados.
 
+
+# Tecnologias utilizadas
+
+As principais tecnologias e ferramentas utilizadas neste projeto foram:
+
+* **Python** — Extração, tratamento, validação e preparação dos dados.
+* **Pandas** — Manipulação e transformação dos conjuntos de dados.
+* **SQL** — Consultas analíticas e geração de indicadores.
+* **Google BigQuery** — Armazenamento e processamento analítico dos dados.
+* **Looker Studio** — Desenvolvimento do dashboard interativo.
+* **Git** — Controle de versão.
+* **GitHub** — Hospedagem e versionamento do projeto.
+* **Visual Studio Code** — Ambiente de desenvolvimento.
+
+
+# Estrutura do repositório
+
+O projeto está organizado de forma modular para facilitar a manutenção, a navegação e a compreensão do fluxo de trabalho.
+
+```text
+├── data/
+│   ├── processed/
+│   └── analytics/
+├── scripts/
+├── sql/
+├── dashboard/
+├── images/
+├── README.md
+```
+
+**Descrição das pastas:**
+
+* **data/** — Dados processados e arquivos utilizados nas análises.
+* **scripts/** — Scripts Python responsáveis pelo pipeline ETL e validações.
+* **sql/** — Consultas SQL utilizadas para geração dos indicadores.
+* **dashboard/** — Recursos relacionados ao dashboard desenvolvido no Looker Studio.
+* **images/** — Imagens utilizadas na documentação, como capturas de tela e diagramas.
+
+
+# Principais resultados
+
+Ao final do projeto, foram entregues os seguintes resultados:
+
+* Pipeline ETL desenvolvido em Python para processamento e validação dos dados.
+* Base analítica consolidada e disponibilizada no Google BigQuery.
+* Consultas SQL para análise de indicadores de negócio, incluindo receita, ticket médio, categorias mais vendidas e desempenho por estado.
+* Dashboard interativo no Looker Studio para acompanhamento dos principais indicadores de e-commerce.
+* Repositório organizado com documentação, versionamento em Git e estrutura modular, facilitando a manutenção e a reprodução do projeto.
+
+
+
