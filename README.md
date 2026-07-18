@@ -54,7 +54,6 @@ O projeto está organizado de forma modular para facilitar a manutenção, a nav
 │   └── analytics/
 ├── scripts/
 ├── sql/
-├── dashboard/
 ├── images/
 ├── README.md
 ```
