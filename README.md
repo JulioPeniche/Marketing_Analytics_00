@@ -27,7 +27,10 @@ Dados Olist
 → BigQuery (Armazenamento e Consultas SQL)
 → Looker Studio (Dashboard e Visualização)
 
-Esse fluxo representa uma arquitetura simples, porém amplamente utilizada em projetos de Analytics e Business Intelligence, permitindo a integração entre processamento, armazenamento, análise e visualização dos dados.
+https://github.com/JulioPeniche/Marketing_Analytics_00/blob/main/images/diagrama_marketing_analytics_00.png
+
+
+Esse fluxo representa uma arquitetura simples, amplamente utilizada em projetos de Analytics e Business Intelligence, permitindo a integração entre processamento, armazenamento, análise e visualização dos dados.
 
 
 # Tecnologias utilizadas
