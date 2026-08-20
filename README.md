@@ -88,7 +88,7 @@ Os principais resultados deste projeto podem ser explorados por meio dos links a
 * **Repositório no GitHub:** https://github.com/JulioPeniche/Marketing_Analytics_00
 
 
-# Autor#
+# Autor
 
 **Julio P.**
 
