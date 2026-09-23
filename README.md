@@ -1,4 +1,4 @@
-# Sobre o projeto
+# Sobre o projeto #
 
 Este projeto consiste na construção de um pipeline completo de análise de dados utilizando a base pública de e-commerce da Olist. O objetivo foi desenvolver uma solução de ponta a ponta, contemplando as etapas de extração, tratamento, validação, modelagem e análise dos dados, culminando na criação de um dashboard interativo para apoio à tomada de decisão.
 
