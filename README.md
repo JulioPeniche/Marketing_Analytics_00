@@ -4,7 +4,7 @@ Este projeto consiste na construção de um pipeline completo de análise de dad
 
 Durante o desenvolvimento foram utilizadas tecnologias amplamente empregadas em projetos de dados, incluindo Python, SQL, BigQuery, Looker Studio e Git/GitHub. O projeto foi estruturado seguindo boas práticas de organização, documentação e versionamento, simulando um cenário próximo ao encontrado em ambientes corporativos.
 
-# Objetivos
+# Objetivos #
 
 O desenvolvimento deste projeto teve como principais objetivos:
 
